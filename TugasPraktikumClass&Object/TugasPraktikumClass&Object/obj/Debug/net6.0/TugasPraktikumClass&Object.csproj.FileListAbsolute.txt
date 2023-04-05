@@ -1,0 +1,15 @@
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.csproj.AssemblyReference.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.AssemblyInfoInputs.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.AssemblyInfo.cs
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.csproj.CoreCompileInputs.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\bin\Debug\net6.0\TugasPraktikumClass&Object.exe
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\bin\Debug\net6.0\TugasPraktikumClass&Object.deps.json
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\bin\Debug\net6.0\TugasPraktikumClass&Object.runtimeconfig.json
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\bin\Debug\net6.0\TugasPraktikumClass&Object.dll
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\bin\Debug\net6.0\TugasPraktikumClass&Object.pdb
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.dll
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\refint\TugasPraktikumClass&Object.dll
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.pdb
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\TugasPraktikumClass&Object.genruntimeconfig.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net6.0\ref\TugasPraktikumClass&Object.dll
